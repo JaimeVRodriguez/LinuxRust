@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chp3/hello-world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/instruc-practice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/array-debug-print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/clippy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/expand-example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/greeting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/pretty-printed-debug/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/labs/printing-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/rustrnd/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/hello-world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/instruc-practice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/array-debug-print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/clippy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/expand-example/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/greeting/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/pretty-printed-debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/labs/printing-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/rustrnd/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
