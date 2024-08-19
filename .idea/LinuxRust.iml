@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/chp3/labs/printing-1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chp3/rustrnd/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp4/var-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp4/var-2/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/instruc-practice/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/labs/array-debug-print/target" />
@@ -22,6 +24,8 @@
       <excludeFolder url="file://$MODULE_DIR$/chp3/labs/printing-1/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/rustrnd/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp4/var-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp4/var-2/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
