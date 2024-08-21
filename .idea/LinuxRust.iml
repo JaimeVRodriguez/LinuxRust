@@ -14,6 +14,21 @@
       <sourceFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chp4/var-1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chp4/var-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp4/labs/exercise4-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chp6/structs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/instruc-practice/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp3/labs/array-debug-print/target" />
@@ -26,6 +41,21 @@
       <excludeFolder url="file://$MODULE_DIR$/chp3/tail-expr-01/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp4/var-1/target" />
       <excludeFolder url="file://$MODULE_DIR$/chp4/var-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp4/labs/exercise4-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp5/labs/exercise5-6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/labs/exercise6-9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chp6/structs/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
